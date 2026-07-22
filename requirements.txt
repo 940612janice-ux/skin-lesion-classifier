@@ -1,0 +1,7 @@
+torch>=2.0.0
+torchvision>=0.15.0
+flask>=2.0.0
+numpy
+Pillow
+huggingface-hub>=0.20.0
+gunicorn

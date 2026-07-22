@@ -1,0 +1,6 @@
+__pycache__
+.git
+.gitignore
+*.pyc
+.DS_Store
+test_images_full/
